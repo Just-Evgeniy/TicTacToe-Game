@@ -1,0 +1,11 @@
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\bin\Debug\GameTicTacToe.exe.config
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\bin\Debug\GameTicTacToe.exe
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\bin\Debug\GameTicTacToe.pdb
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.AssemblyReference.cache
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\obj\Debug\GameTicTacToe.Properties.Resources.resources
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.GenerateResource.cache
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.CoreCompileInputs.cache
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\obj\Debug\GameTicTacToe.exe
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\obj\Debug\GameTicTacToe.pdb
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\obj\Debug\GameTicTacToe.PlayForm.resources
+D:\GameC#\GameTicTacToe\GameTicTacToe\GameTicTacToe\obj\Debug\GameTicTacToe.Menu.resources
